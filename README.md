@@ -18,7 +18,7 @@ Vérification de l’efficacité de ce modèle à des nouvelles données.
 Intégration de ce modèle dans une application pour test temps réel.
 ​
 
-## Phases de l'Atelir
+## Phases de l'Atelier
 
 ​
 
